@@ -4,7 +4,7 @@
 <details><summary><b>Details</b></summary>
 <hr>
 
-- **Description:** [e.g. Detailed project description.]
+- **Description:** Mobile app to calculate chemotherapy drug doses.
 - **Client(s):** Kimberly Selting - VetMed
 - **Language(s):** English
 - **Platform(s):** iOS
