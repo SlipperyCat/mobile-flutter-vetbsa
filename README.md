@@ -1,4 +1,4 @@
-# BSA Dose Calculator
+# VetBSA
 
 
 <details><summary><b>Details</b></summary>
