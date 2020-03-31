@@ -124,5 +124,6 @@
 
 **[Client Documents Repository on Box](https://www.box.com)**
 
-**Lucid Chart Diagrams
-[![UI Flow Diagram](/docs/lucidchart-thumb.png)](https://www.lucidchart.com)**
+**Lucid Chart Diagrams**
+
+[![UI Flow Diagram](/docs/lucidchart-thumb.png)](https://www.lucidchart.com)
