@@ -1,8 +1,4 @@
-# VetBSA
-
-
-<details><summary><b>Details</b></summary>
-<hr>
+# VetBSA Mobile App
 
 <details><summary><b>Team</b></summary>
 <hr>
@@ -14,6 +10,11 @@
 
 <hr>
 </details>
+
+
+
+<details><summary><b>Details</b></summary>
+<hr>
 
 - **Description:** Mobile app to calculate chemotherapy drug doses.
 - **Purpose:**
