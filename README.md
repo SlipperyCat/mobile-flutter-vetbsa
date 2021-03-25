@@ -23,7 +23,9 @@
 - **Platform(s):** iOS
   - **Price:** $4.99
 - **Distribution Method(s):** 
-  - Apple App Store: https://apps.apple.com/us/app/vetbsa/id1460293174
+  - [Apple App Store](https://apps.apple.com/us/app/vetbsa/id1460293174)
+  - [Icons](https://github.com/aitsuillinois/mobile-flutter-vetbsa/tree/master/assets/launcher)
+  - [Screenshots](https://github.com/aitsuillinois/mobile-flutter-vetbsa/tree/master/docs/app%20store%20screenshots)
 - **Development Methodology:** [e.g. [Agile](https://github.com/dswtzer/dev-guide/blob/master/docs/wiki/agile.md)]
 
 - **Framework(s)/Language(s):** 
@@ -137,10 +139,9 @@
 <details><summary><b>UI Flow Mockups</b></summary>
 <hr>
   
-  - [Lucid Charts (online)]()
-  - [Visio (.vsdx File)]()
+  - [Client Mockup (PDF)](https://github.com/aitsuillinois/mobile-flutter-vetbsa/blob/master/docs/wiki/files/Screen%20Drawings%20and%20Behaviors%20from%20Client.pdf)
   - Preview:
-  [![UI Mockup](https://github.com/aitsuillinois/mobile-flutter-vetbsa/blob/master/docs/wiki/images/lucidchart-thumb.png)](https://www.lucidchart.com)
+  [![UI Mockup](https://github.com/aitsuillinois/mobile-flutter-vetbsa/blob/master/docs/wiki/images/client-mockup-thumb.png)](https://github.com/aitsuillinois/mobile-flutter-vetbsa/blob/master/docs/wiki/files/Screen%20Drawings%20and%20Behaviors%20from%20Client.pdf)
 
 <hr>
 </details>
