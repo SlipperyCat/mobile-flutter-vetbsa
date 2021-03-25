@@ -54,83 +54,7 @@
 <details><summary><b>Requirements</b></summary>
 <hr>
 
-<ul>
-<details><summary><b>In Scope</b></summary>
-
-<ul>
-
-### Sprint 1 (??/??/?? - ??/??/??)
-
-<ul>
-<details><summary><b>Epic 1 Summary</b></summary>
-
-<ul>
-  
-## [Epic text](Link-to-issue)
-- [User story text](Link-to-issue)
-- [User story text](Link-to-issue)
-- [User story text](Link-to-issue)
-</ul>
-
-</details>
-</ul>
-
-<ul>
-<details><summary><b>Epic 2 Summary</b></summary>
-
-<ul>
-
-## [Epic text](Link-to-issue)
-- [User story text](Link-to-issue)
-- [User story text](Link-to-issue)
-- [User story text](Link-to-issue)
-</ul>
-
-</details>
-</ul>
-
-### Sprint 2 (??/??/?? - ??/??/??)
-
-<ul>
-<details><summary><b>Epic 3 Summary</b></summary>
-
-<ul>
-
-## [Epic text](Link-to-issue)
-- [User story text](Link-to-issue)
-- [User story text](Link-to-issue)
-- [User story text](Link-to-issue)
-</ul>
-
-</details>
-</ul>
-
-
-<ul>
-<details><summary><b>Epic 4 Summary</b></summary>
-
-<ul>
-
-## [Epic text](Link-to-issue)
-- [User story text](Link-to-issue)
-- [User story text](Link-to-issue)
-- [User story text](Link-to-issue)
-</ul>
-
-</details>
-</ul>
-
-</ul>
-</details>
-
-<details><summary><b>Out of Scope (Backlog)</b></summary>
-
-<ul>
-  
-- [User story text](Link-to-issue)
-</ul>
-</details>
-</ul>
+  - [App Requirements Review (.docx)](https://github.com/aitsuillinois/mobile-flutter-vetbsa/blob/master/docs/wiki/files/02%2021%2019%20-%20Prototype%20App%20Review%20-%20Body%20Surface%20Area%20Dosage%20Calc.docx)
 
 <hr>
 </details>
@@ -139,7 +63,7 @@
 <details><summary><b>UI Flow Mockups</b></summary>
 <hr>
   
-  - [Client Mockup (PDF)](https://github.com/aitsuillinois/mobile-flutter-vetbsa/blob/master/docs/wiki/files/Screen%20Drawings%20and%20Behaviors%20from%20Client.pdf)
+  - [Client Mockup (.pdf)](https://github.com/aitsuillinois/mobile-flutter-vetbsa/blob/master/docs/wiki/files/Screen%20Drawings%20and%20Behaviors%20from%20Client.pdf)
   - Preview:
   [![UI Mockup](https://github.com/aitsuillinois/mobile-flutter-vetbsa/blob/master/docs/wiki/images/client-mockup-thumb.png)](https://github.com/aitsuillinois/mobile-flutter-vetbsa/blob/master/docs/wiki/files/Screen%20Drawings%20and%20Behaviors%20from%20Client.pdf)
 
