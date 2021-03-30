@@ -75,6 +75,7 @@
 <details><summary><b>Other</b></summary>
 <hr>
   
+  - **[GitHub Repo Documentation](https://github.com/aitsuillinois/mobile-flutter-vetbsa/tree/master/docs)**
   - **[Client Documents Repository on Box](https://uofi.app.box.com/folder/54359362723?s=kcfcpcdo0iud93sliu997js81m11rkxp)**
 
 <hr>
